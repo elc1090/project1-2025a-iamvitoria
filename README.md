@@ -16,7 +16,8 @@ Acesso: Substitua este texto pela URL para acesso ao site publicado
 
 
 #### Desenvolvedor(a)
-Substitua este texto pela sua identificação: nome e curso
+Vitória Luiza Camara
+Sistemas de Informação
 
 #### Cliente
 Substitua este texto pela identificação do cliente
@@ -25,9 +26,10 @@ Substitua este texto pela identificação do cliente
 
 
 #### Site/app original
+Amazon
 
 ##### Link
-Substitua este texto pela URL do site/app escolhido
+https://www.amazon.com.br/
 
 ##### Descrição
 Substitua este texto por uma descrição do site/app escolhido. Inclua observações sobre seu conteúdo, aparência e código.
