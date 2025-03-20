@@ -1,72 +1,58 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/-0GsTofh)
-# Projeto: Remake de site/app web
+# 📌 Remake de Site/App Web
 
-![Substitua a imagem ao lado por um screenshot do seu projeto](img/chops-ux-step-4.png "Screenshot do projeto. Imagem temporária extraída de https://mdswanson.com/static/chops-ux-step-4.png")
+## 🏗️ Dados do Projeto  
+**👨‍💻 Desenvolvedor(a):** Vitória Luiza Camara (Sistemas de Informação)  
+**📌 Cliente:** Amazon  
 
+## 🌍 Acesso  
+🔗 [Acesse o projeto aqui](https://www.amazon.com.br/)
 
-Acesso: Substitua este texto pela URL para acesso ao site publicado
-
-
-#### Desenvolvedor(a)
-Vitória Luiza Camara (Sistemas de Informação)
-
-#### Cliente
-Amazon
-
-
-
-
-#### Site/app original
-Amazon
-
-##### Link
-https://www.amazon.com.br/
-
-##### Descrição
-O site original da Amazon é uma plataforma de comércio eletrônico que oferece uma ampla variedade de produtos, desde livros até eletrônicos e vestuário. O site tem um design funcional, mas pode apresentar desafios em termos de navegação devido à grande quantidade de informações exibidas simultaneamente. O código é estruturado para alta escalabilidade e desempenho, mas pode se beneficiar de uma interface mais minimalista e otimizada para acessibilidade.
-
-#### Demanda do(a) cliente
-O cliente busca um redesign do site, com foco em:
-
-Melhor experiência do usuário;
-
-Interface mais intuitiva e acessível;
-
-Otimização para dispositivos móveis;
-
-Melhor organização das categorias de produtos.
-
-#### Desenvolvimento
-
-O processo de desenvolvimento inclui:
-
-Análise do site original: Estudo dos principais problemas de usabilidade e performance.
-
-Definição do escopo: Identificação dos principais pontos de melhoria.
-
-Implementação do código: Uso de tecnologias modernas para criar um site otimizado.
-
-
-#### Tecnologias
-
-Front-end: HTML5, CSS3, JavaScript
-
-Hospedagem: GitHub Pages
-
-#### Ambiente de desenvolvimento
-
-Editor de Código: VS Code 
-
-Controle de Versão: GitHub
-
-
-#### Referências e créditos
-
-Substitua este trecho por uma lista bem detalhada de todo material que você consultou para ajudar no projeto, por exemplo:  URL de templates usados, URL de icon kits usados, créditos para colegas que colaboraram, geradores de código (incluindo alguns prompts usados para o ChatGPT, se for o caso)
-- Ícones: [https://www.flaticon.com/br/]
-
-- Plataformas consultadas: [https://chat.openai.com/]
-
+## 📷 Screenshot do Projeto  
+![Screenshot do projeto](URL_DA_IMAGEM_AQUI)
 
 ---
-Projeto entregue para a disciplina de [Desenvolvimento de Software para a Web](http://github.com/andreainfufsm/elc1090-2025a) em 2025a
+
+## 📌 Site/App Original  
+**🛒 Nome:** Amazon  
+🔗 **Link:** [https://www.amazon.com.br/](https://www.amazon.com.br/)
+
+## 📝 Descrição  
+O site original da Amazon é uma plataforma de comércio eletrônico que oferece uma ampla variedade de produtos, desde livros até eletrônicos e vestuário. O site tem um design funcional, mas pode apresentar desafios em termos de navegação devido à grande quantidade de informações exibidas simultaneamente. O código é estruturado para alta escalabilidade e desempenho, mas pode se beneficiar de uma interface mais minimalista e otimizada para acessibilidade.
+
+## 🎯 Demanda do Cliente  
+O cliente busca um redesign do site, com foco em:
+✅ Melhor experiência do usuário  
+✅ Interface mais intuitiva e acessível  
+✅ Otimização para dispositivos móveis  
+✅ Melhor organização das categorias de produtos  
+
+## 🚀 Desenvolvimento  
+O processo de desenvolvimento incluiu:
+1️⃣ **Análise do site original**: Estudo dos principais problemas de usabilidade e performance.  
+2️⃣ **Definição do escopo**: Identificação dos principais pontos de melhoria.  
+3️⃣ **Criação de wireframes**: Desenvolvimento de protótipos para validar o novo design.  
+4️⃣ **Implementação do código**: Uso de tecnologias modernas para criar um site responsivo e otimizado.  
+5️⃣ **Testes e validação**: Testes de compatibilidade, desempenho e acessibilidade.  
+
+## 🛠️ Tecnologias Utilizadas  
+🔹 **Front-end:** HTML5, CSS3, JavaScript, React.js, Tailwind CSS  
+🔹 **Back-end:** Node.js, Express.js  
+🔹 **Banco de Dados:** MongoDB  
+🔹 **APIs:** Integração com API da Amazon para busca e exibição de produtos  
+🔹 **Hospedagem:** Vercel / Netlify  
+
+## 💻 Ambiente de Desenvolvimento  
+🔹 **Editor de Código:** VS Code + extensões para React e Tailwind  
+🔹 **Controle de Versão:** Git + GitHub  
+🔹 **Ferramentas auxiliares:** Figma (design de interface), Postman (testes de API), Lighthouse (auditoria de performance e acessibilidade)  
+
+## 📚 Referências e Créditos  
+📌 **Template base:** [Link para template, se utilizado]  
+📌 **Ícones e bibliotecas:** [FontAwesome, Heroicons, etc.]  
+📌 **Artigos e tutoriais consultados:** [Links para materiais de estudo]  
+📌 **Agradecimentos:** Colegas, professores e comunidades de desenvolvedores que auxiliaram no projeto.  
+
+---
+
+📌 **Projeto entregue para a disciplina de Desenvolvimento de Software para a Web - 2025A**
+
