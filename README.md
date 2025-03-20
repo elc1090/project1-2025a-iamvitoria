@@ -35,7 +35,6 @@ O processo de desenvolvimento será realizado nas seguintes etapas:
 
 ## 🛠️ Tecnologias Utilizadas  
 🔹 **Front-end:** HTML5, CSS3, JavaScript (para interatividade dinâmica)  
-🔹 **Back-end:** Python (para funcionalidades de servidor, como processamento de dados e integração com o banco de dados)  
 🔹 **Hospedagem:** GitHub Pages (para um ambiente de hospedagem gratuito e eficiente)  
 
 ## 💻 Ambiente de Desenvolvimento  
