@@ -1,0 +1,104 @@
+/* Estilos para o header */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #232f3e;
+    color: white;
+}
+
+.logo img {
+    max-width: 20%;
+}
+
+.search-bar input {
+    padding: 8px 15px;
+    width: 300px;
+    border: none;
+    border-radius: 5px;
+}
+
+.profile-icon img {
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+}
+
+.hamburger-menu button {
+    background: none;
+    border: none;
+    color: white;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+/* Estilos para o texto e imagem */
+.welcome-section {
+    text-align: center;
+    padding: 50px 20px;
+}
+
+.welcome-section h1 {
+    font-size: 36px;
+    color: #333;
+}
+
+.welcome-section p {
+    font-size: 18px;
+    color: #666;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.image-section img {
+    max-width: 60%;
+    border-radius: 10px;
+}
+
+/* Estilos do menu hamburguer */
+.hamburger-menu-list {
+    display: none;
+    position: absolute;
+    top: 70px;
+    right: 20px;
+    background-color: #232f3e;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.hamburger-menu-list.show {
+    display: block;
+}
+
+.hamburger-menu-list ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.hamburger-menu-list ul li {
+    margin: 10px 0;
+}
+
+.hamburger-menu-list ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.hamburger-menu-list ul li a:hover {
+    text-decoration: underline;
+}
