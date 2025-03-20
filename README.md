@@ -21,37 +21,29 @@ O site original da Amazon é uma plataforma de comércio eletrônico que oferece
 
 ## 🎯 Demanda do Cliente  
 O cliente busca um redesign do site, com foco em:
+
 ✅ Melhor experiência do usuário  
-✅ Interface mais intuitiva e acessível  
-✅ Otimização para dispositivos móveis  
-✅ Melhor organização das categorias de produtos  
+✅ Interface mais intuitiva e acessível 
 
 ## 🚀 Desenvolvimento  
-O processo de desenvolvimento incluiu:
+O processo de desenvolvimento inclui:
+
 1️⃣ **Análise do site original**: Estudo dos principais problemas de usabilidade e performance.  
-2️⃣ **Definição do escopo**: Identificação dos principais pontos de melhoria.  
-3️⃣ **Criação de wireframes**: Desenvolvimento de protótipos para validar o novo design.  
-4️⃣ **Implementação do código**: Uso de tecnologias modernas para criar um site responsivo e otimizado.  
-5️⃣ **Testes e validação**: Testes de compatibilidade, desempenho e acessibilidade.  
+2️⃣ **Definição do escopo**: Identificação dos principais pontos de melhoria.   
+3️⃣  **Implementação do código**: Uso de tecnologias modernas para criar um site responsivo e otimizado.  
 
 ## 🛠️ Tecnologias Utilizadas  
-🔹 **Front-end:** HTML5, CSS3, JavaScript, React.js, Tailwind CSS  
-🔹 **Back-end:** Node.js, Express.js  
-🔹 **Banco de Dados:** MongoDB  
-🔹 **APIs:** Integração com API da Amazon para busca e exibição de produtos  
-🔹 **Hospedagem:** Vercel / Netlify  
+🔹 **Front-end:** HTML5, CSS3, JavaScript  
+🔹 **Back-end:** Python  
+🔹 **Hospedagem:** GitHub Pages  
 
 ## 💻 Ambiente de Desenvolvimento  
-🔹 **Editor de Código:** VS Code + extensões para React e Tailwind  
-🔹 **Controle de Versão:** Git + GitHub  
-🔹 **Ferramentas auxiliares:** Figma (design de interface), Postman (testes de API), Lighthouse (auditoria de performance e acessibilidade)  
+🔹 **Editor de Código:** VS Code  
+🔹 **Controle de Versão:** GitHub  
 
-## 📚 Referências e Créditos  
-📌 **Template base:** [Link para template, se utilizado]  
-📌 **Ícones e bibliotecas:** [FontAwesome, Heroicons, etc.]  
-📌 **Artigos e tutoriais consultados:** [Links para materiais de estudo]  
-📌 **Agradecimentos:** Colegas, professores e comunidades de desenvolvedores que auxiliaram no projeto.  
-
+## 📚 Referências e Créditos   
+📌 **Ícones:** [https://www.flaticon.com/br/]  
+📌 **Plataforma consultada:** [https://chat.openai.com/]  
 ---
 
 📌 **Projeto entregue para a disciplina de Desenvolvimento de Software para a Web - 2025A**
