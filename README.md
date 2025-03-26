@@ -5,10 +5,10 @@
 **📌 Cliente:** Andriel Prieto  
 
 ## 🌍 Acesso  
-🔗 [Acesse o projeto aqui](https://www.americanas.com.br/)
+🔗 [Acesse o projeto aqui](https://elc1090.github.io/project1-2025a-iamvitoria/)
 
 ## 📷 Screenshot do Projeto  
-![Screenshot do projeto](URL_DA_IMAGEM_AQUI)
+![image](https://github.com/user-attachments/assets/d27edc64-83b7-4c66-9c3e-c99f54917eed)
 
 ---
 
