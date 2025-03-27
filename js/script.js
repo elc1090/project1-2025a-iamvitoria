@@ -56,6 +56,7 @@ document.addEventListener("DOMContentLoaded", function() {
             window.location.href = "details.html";
         });
     });
+    
 });
 
 document.addEventListener("DOMContentLoaded", function() {
@@ -72,5 +73,43 @@ document.addEventListener("DOMContentLoaded", function() {
         document.querySelector(".product-info span").textContent = produtoSelecionado.preco;
     } else {
         console.log("Nenhum produto encontrado no localStorage.");
+    }
+});
+
+document.addEventListener("DOMContentLoaded", function () {
+    const backButton = document.querySelector(".product-info button");
+
+    if (backButton) {
+        backButton.addEventListener("click", function () {
+            window.location.href = "C:/Users/vitor/OneDrive/Documents/GitHub/project1-2025a-iamvitoria/pages/products.html"; 
+            // OU se for um link relativo ao site:
+            // window.location.href = "../produtos.html";
+        });
+    }
+});
+
+document.addEventListener("DOMContentLoaded", function () {
+    const searchInput = document.querySelector(".search-bar input");
+
+    if (searchInput) {
+        searchInput.addEventListener("input", function () {
+            const searchTerm = searchInput.value.toLowerCase();
+            filterProducts(searchTerm);
+        });
+    }
+
+    function filterProducts(searchTerm) {
+        const products = document.querySelectorAll(".product-card");
+
+        products.forEach(product => {
+            const productName = product.querySelector("h2").textContent.toLowerCase();
+            const productDescription = product.querySelector("p").textContent.toLowerCase();
+
+            if (productName.includes(searchTerm) || productDescription.includes(searchTerm)) {
+                product.style.display = "block"; // Mostra o produto
+            } else {
+                product.style.display = "none"; // Esconde o produto
+            }
+        });
     }
 });
