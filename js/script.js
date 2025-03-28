@@ -5,8 +5,8 @@ document.addEventListener("DOMContentLoaded", function() {
 
     menu.innerHTML = `
         <ul>
-            <li><a href="C:/Users/vitor/OneDrive/Documents/GitHub/project1-2025a-iamvitoria/index.html">Home</a></li>
-            <li><a href="C:/Users/vitor/OneDrive/Documents/GitHub/project1-2025a-iamvitoria/pages/products.html">Produtos</a></li>
+            <li><a href="https://elc1090.github.io/project1-2025a-iamvitoria/">Home</a></li>
+            <li><a href="https://elc1090.github.io/project1-2025a-iamvitoria/pages/products.html">Produtos</a></li>
         </ul>
     `;
     
@@ -81,7 +81,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     if (backButton) {
         backButton.addEventListener("click", function () {
-            window.location.href = "C:/Users/vitor/OneDrive/Documents/GitHub/project1-2025a-iamvitoria/pages/products.html"; 
+            window.location.href = "https://elc1090.github.io/project1-2025a-iamvitoria/pages/products.html"; 
             // OU se for um link relativo ao site:
             // window.location.href = "../produtos.html";
         });
